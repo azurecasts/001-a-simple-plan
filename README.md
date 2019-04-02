@@ -20,7 +20,7 @@ server.listen(port, hostname, () => {
 ```
 
 ## The Video
-You can watch this video [up on YouTube](https://www.youtube.com/watch?v=ibGxAue-Z4k). A written transcript is also available in this repo along with the video in the code.
+You can watch this video [up on YouTube](https://www.youtube.com/watch?v=ibGxAue-Z4k). A written transcript is also available in this repo along with the code in the video.
 
 ## Questions? Concerns?
 Feel free to ask questions in our Issues List but **please please** include which episode you're referring to.
