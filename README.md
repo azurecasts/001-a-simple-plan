@@ -19,13 +19,15 @@ server.listen(port, hostname, () => {
 });
 ```
 
-## Resource Links
+## Resources
 
-You can read more about the Azure resources in this video here:
-
- - [What the heck is Make?](https://www.youtube.com/watch?v=_r7i5X0rXJk)
- - [The az webapp container command](https://docs.microsoft.com/cli/azure/webapp/config/container?view=azure-cli-latest&WT.mc_id=azurecast_001-github-robconery)
- - [Install the CLI](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=azurecast_001-github-robconery)
+ - [The Node Getting Started Guid](https://nodejs.org/es/docs/guides/getting-started-guide/)
+ - [The Azure CLI](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=azurecast_001-github-robconery)
+ - [Docker](https://docs.docker.com/)
+ - [az webapp](https://docs.microsoft.com/cli/azure/webapp?view=azure-cli-latest&WT.mc_id=azurecast_001-github-robconery)
+ - [App Service Pricing](https://azure.microsoft.com/pricing/details/app-service/windows/?WT.mc_id=azurecast_001-github-robconery)
+ - [az appservice](https://docs.microsoft.com/cli/azure/appservice?view=azure-cli-latest&WT.mc_id=azurecast_001-github-robconery)
+ - [az group](https://docs.microsoft.com/cli/azure/group?view=azure-cli-latest&WT.mc_id=azurecast_001-github-robconery)
 
 
 ## The Video
